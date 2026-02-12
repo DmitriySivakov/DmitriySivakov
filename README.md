@@ -8,7 +8,7 @@
 По совету наставника изучаю книгу Гленфорда Майерса "Искусство тестирования программ".
 
 Навыки:
-PostgreSQL  REST API  Кроссбраузерное тестирование  Регрессионное тестирование  Java  Postman  Git  GitHub  SQL  Charles  Android Studio  DevTools  apiDoc  Cygwin  Figma
+#PostgreSQL # REST #API  #Кроссбраузерное #тестирование  #Регрессионное тестирование  #Java  #Postman  #Git  #GitHub  #SQL  #Charles  #Android Studio  #DevTools  #apiDoc  #Cygwin  #Figma
 
 Контакты:
 Телефон: +7 (918) 1188330
